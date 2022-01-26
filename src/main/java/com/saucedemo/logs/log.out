@@ -1,0 +1,62 @@
+2022-01-23 22:01:677 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-23 22:01:704 INFO  HomePage :33 - Enter User Name : Satandard_user
+2022-01-23 22:01:837 INFO  HomePage :37 - Enter Password : secret_sauce
+2022-01-23 22:01:966 INFO  HomePage :41 - Click on Login button 
+2022-01-23 23:01:754 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-23 23:01:944 INFO  HomePage :33 - Enter User Name : standard_user
+2022-01-23 23:01:69 INFO  HomePage :37 - Enter Password : secret_sauce
+2022-01-23 23:01:486 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-23 23:01:968 INFO  HomePage :33 - Enter User Name : standard_user
+2022-01-23 23:01:99 INFO  HomePage :37 - Enter Password : secret_sauce
+2022-01-23 23:01:292 INFO  HomePage :41 - Click on Login button 
+2022-01-23 23:01:221 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-23 23:01:812 INFO  HomePage :33 - Enter User Name : standard_user
+2022-01-23 23:01:937 INFO  HomePage :37 - Enter Password : secret_sauce
+2022-01-23 23:01:128 INFO  HomePage :41 - Click on Login button 
+2022-01-23 23:01:922 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-23 23:01:441 INFO  HomePage :33 - Enter User Name : standard_user
+2022-01-23 23:01:721 INFO  HomePage :37 - Enter Password : secret_sauce
+2022-01-23 23:01:924 INFO  HomePage :41 - Click on Login button 
+2022-01-23 23:01:140 INFO  BasePage :33 - SelectPrice (high to low) Option from DropDown List.
+2022-01-23 23:01:237 INFO  BasePage :38 - Click on Add to Cart
+2022-01-23 23:01:339 INFO  BasePage :42 - Go to Shopping Cart
+2022-01-23 23:01:434 INFO  CheckOutPage :25 - Click on CheckOut Button
+2022-01-23 23:01:891 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-23 23:01:676 INFO  HomePage :33 - Enter User Name : standard_user
+2022-01-23 23:01:809 INFO  HomePage :37 - Enter Password : secret_sauce
+2022-01-23 23:01:16 INFO  HomePage :41 - Click on Login button 
+2022-01-23 23:01:168 INFO  BasePage :33 - SelectPrice (high to low) Option from DropDown List.
+2022-01-23 23:01:263 INFO  BasePage :38 - Click on Add to Cart
+2022-01-23 23:01:370 INFO  BasePage :42 - Go to Shopping Cart
+2022-01-23 23:01:472 INFO  CheckOutPage :25 - Click on CheckOut Button
+2022-01-23 23:01:600 INFO  LogOutPage :46 - Enter name :Andrew
+2022-01-23 23:01:708 INFO  LogOutPage :48 - Enter name :Smith
+2022-01-23 23:01:811 INFO  LogOutPage :50 - Enter PostCode / Zip :CR8 9DE
+2022-01-23 23:01:42 INFO  LogOutPage :54 - Click on Continue Button
+2022-01-23 23:01:140 INFO  LogOutPage :59 - Click on finish Button
+2022-01-24 00:01:536 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-24 00:01:713 INFO  HomePage :33 - Enter User Name : standard_user
+2022-01-24 00:01:828 INFO  HomePage :37 - Enter Password : secret_sauce
+2022-01-24 00:01:139 INFO  HomePage :41 - Click on Login button 
+2022-01-24 00:01:283 INFO  BasePage :33 - SelectPrice (high to low) Option from DropDown List.
+2022-01-24 00:01:359 INFO  BasePage :38 - Click on Add to Cart
+2022-01-24 00:01:443 INFO  BasePage :42 - Go to Shopping Cart
+2022-01-24 00:01:515 INFO  CheckOutPage :25 - Click on CheckOut Button
+2022-01-24 00:01:619 INFO  LogOutPage :46 - Enter name :Andrew
+2022-01-24 00:01:737 INFO  LogOutPage :48 - Enter name :Smith
+2022-01-24 00:01:873 INFO  LogOutPage :50 - Enter PostCode / Zip :CR8 9DE
+2022-01-24 00:01:964 INFO  LogOutPage :54 - Click on Continue Button
+2022-01-24 00:01:56 INFO  LogOutPage :59 - Click on finish Button
+2022-01-24 00:01:794 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-01-24 00:01:301 INFO  HomePage :33 - Enter User Name : standard_user
+2022-01-24 00:01:438 INFO  HomePage :37 - Enter Password : secret_sauce
+2022-01-24 00:01:677 INFO  HomePage :41 - Click on Login button 
+2022-01-24 00:01:79 INFO  BasePage :32 - SelectPrice (high to low) Option from DropDown List.
+2022-01-24 00:01:154 INFO  BasePage :37 - Click on Add to Cart
+2022-01-24 00:01:246 INFO  BasePage :41 - Go to Shopping Cart
+2022-01-24 00:01:331 INFO  CheckOutPage :25 - Click on CheckOut Button
+2022-01-24 00:01:469 INFO  LogOutPage :46 - Enter name :Andrew
+2022-01-24 00:01:595 INFO  LogOutPage :48 - Enter name :Smith
+2022-01-24 00:01:710 INFO  LogOutPage :50 - Enter PostCode / Zip :CR8 9DE
+2022-01-24 00:01:800 INFO  LogOutPage :54 - Click on Continue Button
+2022-01-24 00:01:886 INFO  LogOutPage :59 - Click on finish Button
